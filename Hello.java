@@ -4,5 +4,5 @@ public class Hello{
             System.out.println("Hello World ..."+i);
         }
     }
-	//Hello World 
+	//Hello Loop 
 }
